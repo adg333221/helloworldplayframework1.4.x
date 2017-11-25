@@ -1,0 +1,8 @@
+25 Nov 2017 21:46:06,909 INFO  ~ Starting /home/akash/playframework/helloworld
+25 Nov 2017 21:46:07,113 INFO  ~ Module docviewer is available (/opt/play/modules/docviewer)
+25 Nov 2017 21:46:07,581 WARN  ~ You're running Play! in DEV mode
+25 Nov 2017 21:46:07,630 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+25 Nov 2017 21:46:11,729 INFO  ~ HikariPool-1 - Starting...
+25 Nov 2017 21:46:11,761 INFO  ~ HikariPool-1 - Start completed.
+25 Nov 2017 21:46:11,780 INFO  ~ Connected to jdbc:h2:mem:play for default
+25 Nov 2017 21:46:12,362 INFO  ~ Application 'Hello World' is now started !
